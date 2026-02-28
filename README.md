@@ -44,7 +44,7 @@ VS Code • Git • Figma
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: rajeshpatra-7.github.io/portfolio/
+- 💼 Portfolio: https://rajeshpatra-7.github.io/portfolio/
 - 🔗 LinkedIn: https://www.linkedin.com/in/rajesh-patra-414425281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
