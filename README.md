@@ -1,77 +1,111 @@
 <h1 align="center">Hi 👋, I'm Rajesh Patra</h1>
-<h3 align="center">Software Developer • Data Science Learner • Aspiring Tech Entrepreneur</h3>
+<h3 align="center">Software Developer | Data Science Enthusiast | Future Entrepreneur 🚀</h3>
 
 <p align="center">
-Designing scalable software. Leveraging data for intelligent decisions. Building with long-term vision.
+💡 "In the future, I won’t just write code — I’ll build systems that scale businesses."
 </p>
 
 ---
 
-## 🚀 Who Am I?
+## 👨‍💻 Who Am I?
 
-- Focused on building efficient and scalable web applications  
-- Exploring Data Science and analytical problem-solving  
-- Interested in product thinking, startups, and tech-driven business  
-- Committed to continuous learning and long-term growth  
+<table>
+<tr>
+<td width="55%">
 
-> "Technology creates systems. Data drives decisions. Business creates impact."
+- 💻 Aspiring Software Developer building real-world applications  
+- 📊 Learning Data Science, AI & Analytics  
+- 💼 Deeply interested in Business, Startups & Growth  
+- 🧠 I learn anything that sparks my curiosity  
+- 🎯 Long-term Goal: Build my own Tech Company  
 
----
+</td>
+<td width="45%" align="center">
 
-## 💻 Computer Languages
+<img src="images/developer.png" width="350"/>
 
-<p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 📊 Data Science & Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙ Tools & Workflow
+## 🚀 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+### 💻 Computer Languages
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikitlearn)
+
+---
+
+### 🌐 Frameworks
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+---
+
+### 🛠 Software & Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RajeshPatra-7&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshPatra-7&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshpatra-7&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshpatra-7&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/rajesh-patra-414425281">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="images/lion.png" width="320"/>
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://www.linkedin.com/in/rajesh-patra-414425281" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
 </a>
 
-<a href="https://rajeshpatra-7.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<br><br>
+
+<a href="https://www.instagram.com/_itz_editz__07/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60"/>
 </a>
 
-<a href="https://www.instagram.com/_itz_editz__07/">
-<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<br><br>
+
+<a href="https://rajeshpatra-7.github.io/portfolio/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="60"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+⭐ <b>"Build Software. Analyze Data. Create Business."</b>
 </p>
