@@ -1,111 +1,114 @@
-<h1 align="center">Hi 👋, I'm Rajesh Patra</h1>
-<h3 align="center">Software Developer | Data Science Enthusiast | Future Entrepreneur 🚀</h3>
+<!-- ================= MATRIX HEADER ================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=900&lines=RAJESH+PATRA;FULL+STACK+DEVELOPER;DATA+SCIENCE+ARCHITECT;FUTURE+ENTREPRENEUR;SYSTEM+BUILDER+🚀" />
+</h1>
 
 <p align="center">
-💡 "In the future, I won’t just write code — I’ll build systems that scale businesses."
+  <img src="https://komarev.com/ghpvc/?username=rajeshpatra-7&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HACKER-MODE_ACTIVATED-000000?style=for-the-badge&logo=hackthebox" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I?
+# 🧠 SYSTEM IDENTITY
 
-<table>
-<tr>
-<td width="55%">
+```bash
+Name        : Rajesh Patra
+Role        : Software Developer
+Focus       : Scalable Web + AI Systems
+Mindset     : Businessmen
+Goal        : Launch My Own Tech Company
+```
 
-- 💻 Aspiring Software Developer building real-world applications  
-- 📊 Learning Data Science, AI & Analytics  
-- 💼 Deeply interested in Business, Startups & Growth  
-- 🧠 I learn anything that sparks my curiosity  
-- 🎯 Long-term Goal: Build my own Tech Company  
-
-</td>
-<td width="45%" align="center">
-
-<img src="images/developer.png" width="350"/>
-
-</td>
-</tr>
-</table>
+> 💬 "I don’t just write code. I engineer digital empires."
 
 ---
 
-## 🚀 Tech Stack
+# ⚔ TECH STACK (Digital Arsenal)
 
-### 💻 Computer Languages
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge&logo=mysql)
+## 💻 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+</p>
 
----
+## 🧬 AI / Data Science
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</p>
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikitlearn)
+## 🌐 Frontend / Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,flask" />
+</p>
 
----
-
-### 🌐 Frameworks
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
----
-
-### 🛠 Software & Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
-![PyCharm](https://img.shields.io/badge/PyCharm-green?style=for-the-badge&logo=pycharm)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshpatra-7&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshpatra-7&theme=tokyonight" />
+## 🛠 Developer Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,vscode,pycharm,notion" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GITHUB ANALYTICS
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshpatra-7&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshpatra-7&theme=chartreuse-dark&hide_border=true" />
+</p>
 
-<img src="images/lion.png" width="320"/>
+---
 
-</td>
-<td width="50%" align="center">
+# 🐍 CONTRIBUTION SNAKE
 
-<a href="https://www.linkedin.com/in/rajesh-patra-414425281" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<br><br>
+---
 
-<a href="https://www.instagram.com/_itz_editz__07/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="60"/>
-</a>
+# 🚀 CURRENT BUILD MODE
 
-<br><br>
+```diff
++ AI Video Editor SaaS
++ Scalable Web Applications
++ Data Analytics Dashboards
++ Startup Growth Systems
+```
 
-<a href="https://rajeshpatra-7.github.io/portfolio/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="60"/>
-</a>
+---
 
-</td>
-</tr>
-</table>
+# 🧬 FOUNDER MODE LOOP
+
+```python
+while True:
+    learn()
+    build()
+    improve()
+    scale()
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rajesh-patra-414425281">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_itz_editz__07/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://rajeshpatra-7.github.io/portfolio/">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-⭐ <b>"Build Software. Analyze Data. Create Business."</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 </p>
+
+<!-- ================= END ================= -->
