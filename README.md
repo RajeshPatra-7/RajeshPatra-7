@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00FF00&center=true&vCenter=true&width=900&lines=RAJESH+PATRA;FULL+STACK+DEVELOPER;DATA+SCIENCE+ARCHITECT;FUTURE+ENTREPRENEUR;SYSTEM+BUILDER+🚀" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshpatra-7&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HACKER-MODE_ACTIVATED-000000?style=for-the-badge&logo=hackthebox" />
-</p>
-
 ---
 
 # 🧠 SYSTEM IDENTITY
